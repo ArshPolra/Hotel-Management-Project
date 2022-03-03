@@ -1,0 +1,29 @@
+
+LUXURY ROOM: 
+Number of beds:3
+Number of bathrooms: 2
+Room cost: 1000
+Room avaible(1 = True & 0 = False): 1
+Customer ID: -1
+
+DELUXE ROOM: 
+Number of beds:2
+Number of bathrooms: 1
+Room cost: 500
+Room avaible(1 = True & 0 = False): 1
+Customer ID: -1
+
+STANDARD ROOM: 
+Number of beds:1
+Number of bathrooms: 1
+Room cost: 100
+Room avaible(1 = True & 0 = False): 1
+Customer ID: -1
+
+=======================
+|| Basic facilities: ||
+=======================
+
+1) Free swimmingpool access
+2) Free wifi access
+3) Free room service

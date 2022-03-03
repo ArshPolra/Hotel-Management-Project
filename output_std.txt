@@ -1,0 +1,91 @@
+Test 1:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $130
+2) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $160
+Your reservation has been confirmed!
+The total cost is: $160
+
+
+Test 2:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+2) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $130
+Your reservation has been confirmed!
+The total cost is: $130
+
+
+Test 3:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $100
+
+Test 4:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $100
+
+Test 5:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+2) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $130
+Your reservation has been confirmed!
+The total cost is: $130
+
+
+Test 6:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $100
+

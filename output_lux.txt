@@ -1,0 +1,128 @@
+Test 1:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Buffet for $30
+3) VIP lounge for $80
+4) Massage service for $20
+5) Indoor playground and arcade for $30
+6) Theater room $ 15
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want gym access for extra $20: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1020
+2) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1050
+3) Do you want massage service access for extra $20: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1070
+4) Do you want Theater access for extra $15: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1085
+5) Do you want VIP lounge access for extra $80: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1165
+6) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1195
+Your reservation has been confirmed!
+The total cost is: $1195
+
+
+Test 2:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Buffet for $30
+3) VIP lounge for $80
+4) Massage service for $20
+5) Indoor playground and arcade for $30
+6) Theater room $ 15
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want gym access for extra $20: (type "y" for yes and "n" for no): 
+2) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1030
+3) Do you want massage service access for extra $20: (type "y" for yes and "n" for no): 
+4) Do you want Theater access for extra $15: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1045
+5) Do you want VIP lounge access for extra $80: (type "y" for yes and "n" for no): 
+6) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1075
+Your reservation has been confirmed!
+The total cost is: $1075
+
+
+Test 3:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Buffet for $30
+3) VIP lounge for $80
+4) Massage service for $20
+5) Indoor playground and arcade for $30
+6) Theater room $ 15
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $1000
+
+Test 4:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Buffet for $30
+3) VIP lounge for $80
+4) Massage service for $20
+5) Indoor playground and arcade for $30
+6) Theater room $ 15
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $1000
+
+Test 5:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Buffet for $30
+3) VIP lounge for $80
+4) Massage service for $20
+5) Indoor playground and arcade for $30
+6) Theater room $ 15
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want gym access for extra $20: (type "y" for yes and "n" for no): 
+2) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+3) Do you want massage service access for extra $20: (type "y" for yes and "n" for no): 
+4) Do you want Theater access for extra $15: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1015
+5) Do you want VIP lounge access for extra $80: (type "y" for yes and "n" for no): 
+6) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1045
+Your reservation has been confirmed!
+The total cost is: $1045
+
+
+Test 6:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Buffet for $30
+3) VIP lounge for $80
+4) Massage service for $20
+5) Indoor playground and arcade for $30
+6) Theater room $ 15
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $1000
+

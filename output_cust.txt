@@ -1,0 +1,66 @@
+Test 1:
+
+
+Customer 1:
+Customer Name: Poojan
+Customer Email Address: pv.pat2@gmail.com
+Customer ID: 1
+
+Customer 2:
+Customer Name: Arsh
+Customer Email Address: arsh2@gmail.com
+Customer ID: 2
+
+Test 2:
+
+
+
+Customer 1:
+Customer Name: Devansh
+Customer Email Address: davnince@gmail.com
+Customer ID: 1
+
+Customer 2:
+Customer Name: Shivam
+Customer Email Address: Shivam@gmail.com
+Customer ID: 2
+
+Customer 3:
+Customer Name: Poojan
+Customer Email Address: pv.pat2@gmail.com
+Customer ID: 3
+
+Test 3:
+
+Customer 1:
+Customer Name: Arsh
+Customer Email Address: arsh@gmail.com
+Customer ID: 1
+
+Test 4:
+
+Customer 1:
+Customer Name: Parth
+Customer Email Address: parth_vyas@gmail.com
+Customer ID: 1
+
+Test 5:
+
+
+Customer 1:
+Customer Name: Frank
+Customer Email Address: orang@gmail.com
+Customer ID: 1
+
+Customer 2:
+Customer Name: Poojan
+Customer Email Address: pv.pat2@gmail.com
+Customer ID: 2
+
+Test 6:
+
+Customer 1:
+Customer Name: Parth
+Customer Email Address: parth_vyas@gmail.com
+Customer ID: 1
+

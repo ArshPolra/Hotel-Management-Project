@@ -1,0 +1,766 @@
+Test 1:
+===================================================
+|| Hello and wellcome to LONG LONG UNITED HOTEL: ||
+||  STAY LONGG, PLEASURE LONGG, LONG LONG UNITED ||
+===================================================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+==================================
+|| There are 3 types of rooms : ||
+==================================
+==========================================================================================================================================
+||				Luxury Room:				Deluxe Room:			Standard Room:			||
+||Cost:				$1000					$500				$100				||
+||Num beds: 			3					2				1				||
+||Num bathrooms:		2					1				1				||
+==========================================================================================================================================
+
+The facilities will be shown while booking a room
+
+Available rooms: 
+1 <------ Luxury Rooms
+2 <------ Luxury Rooms
+3 <------ Luxury Rooms
+4 <------ Deluxe Rooms
+5 <------ Deluxe Rooms
+6 <------ Deluxe Rooms
+7 <------ Deluxe Rooms
+8 <------ Standard Rooms
+9 <------ Standard Rooms
+10 <------ Standard Rooms
+
+What is your budget for the room: 
+
+Please enter the details with first character being a letter !!
+
+Please enter your name (full name): 
+Error: first character must be an character
+
+Enter name again: 
+
+Please enter your email (@gmail.com): 
+Error: first character must be an character
+
+Enter email again: 
+Error: first character must be an character
+
+Enter email again: 
+Error: Either the size is not correct
+or the extension is not @gmail.com
+
+Enter again: 
+Rooms available for your budget: 
+4
+5
+6
+7
+8
+9
+10
+
+Which room would you like to book: 
+Your current facilites are: 
+=======================
+|| Basic facilities: ||
+=======================
+
+1) Free swimmingpool access
+2) Free wifi access
+3) Free room service
+4) Number of beds: 2
+5) Number of bathrooms: 1
+
+HOWEVER YOU CAN ADD ADVANCED FACILITIES LISTED BELOW:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Indoor playground and arcade for $30
+3) Theater room $ 15
+4) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want gym access for extra $20: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $520
+2) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $550
+3) Do you want Theater access for extra $15: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $565
+4) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $595
+Your reservation has been confirmed!
+The total cost is: $595
+
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+==================================
+|| There are 3 types of rooms : ||
+==================================
+==========================================================================================================================================
+||				Luxury Room:				Deluxe Room:			Standard Room:			||
+||Cost:				$1000					$500				$100				||
+||Num beds: 			3					2				1				||
+||Num bathrooms:		2					1				1				||
+==========================================================================================================================================
+
+The facilities will be shown while booking a room
+
+Available rooms: 
+1 <------ Luxury Rooms
+2 <------ Luxury Rooms
+3 <------ Luxury Rooms
+4 <------ Deluxe Rooms
+6 <------ Deluxe Rooms
+7 <------ Deluxe Rooms
+8 <------ Standard Rooms
+9 <------ Standard Rooms
+10 <------ Standard Rooms
+
+What is your budget for the room: 
+
+Please enter the details with first character being a letter !!
+
+Please enter your name (full name): 
+
+Please enter your email (@gmail.com): 
+Rooms available for your budget: 
+1
+2
+3
+4
+6
+7
+8
+9
+10
+
+Which room would you like to book: 
+Your current facilites are: 
+=======================
+|| Basic facilities: ||
+=======================
+
+1) Free swimmingpool access
+2) Free wifi access
+3) Free room service
+4) Number of beds: 3
+5) Number of bathrooms: 2
+
+HOWEVER YOU CAN ADD ADVANCED FACILITIES LISTED BELOW:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Gym access for $20
+2) Buffet for $30
+3) VIP lounge for $80
+4) Massage service for $20
+5) Indoor playground and arcade for $30
+6) Theater room $ 15
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+1) Do you want gym access for extra $20: (type "y" for yes and "n" for no): 
+2) Do you want arcade and playground access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1030
+3) Do you want massage service access for extra $20: (type "y" for yes and "n" for no): 
+4) Do you want Theater access for extra $15: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1045
+5) Do you want VIP lounge access for extra $80: (type "y" for yes and "n" for no): 
+6) Do you want buffet access for extra $30: (type "y" for yes and "n" for no): 
+Running cost of the facilities: $1075
+Your reservation has been confirmed!
+The total cost is: $1075
+
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Do you want to check-out a customer(type "y" for yes and "n" for no): 
+Please enter a customer id: Customer with ID: 1 has been checked out
+t2: 0
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+================
+|| HOTEL LOG: ||
+================
+
+Booked Rooms: 1
+Customer ID: 2
+Overall cost: $1075
+=======================
+|| Customer Details: ||
+=======================
+Name: Arsh Polra
+Contact: arsh@gmail.com
+
+=================================
+|| Live rooms available board: ||
+=================================
+Luxury Rooms available: 2
+Deluxe Rooms available: 4
+Standard Rooms available: 3
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Test 2:
+===================================================
+|| Hello and wellcome to LONG LONG UNITED HOTEL: ||
+||  STAY LONGG, PLEASURE LONGG, LONG LONG UNITED ||
+===================================================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+================
+|| HOTEL LOG: ||
+================
+
+=================================
+|| Live rooms available board: ||
+=================================
+Luxury Rooms available: 3
+Deluxe Rooms available: 4
+Standard Rooms available: 3
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Test 3:
+===================================================
+|| Hello and wellcome to LONG LONG UNITED HOTEL: ||
+||  STAY LONGG, PLEASURE LONGG, LONG LONG UNITED ||
+===================================================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+==================================
+|| There are 3 types of rooms : ||
+==================================
+==========================================================================================================================================
+||				Luxury Room:				Deluxe Room:			Standard Room:			||
+||Cost:				$1000					$500				$100				||
+||Num beds: 			3					2				1				||
+||Num bathrooms:		2					1				1				||
+==========================================================================================================================================
+
+The facilities will be shown while booking a room
+
+Available rooms: 
+1 <------ Luxury Rooms
+2 <------ Luxury Rooms
+3 <------ Luxury Rooms
+4 <------ Deluxe Rooms
+5 <------ Deluxe Rooms
+6 <------ Deluxe Rooms
+7 <------ Deluxe Rooms
+8 <------ Standard Rooms
+9 <------ Standard Rooms
+10 <------ Standard Rooms
+
+What is your budget for the room: 
+.....
+Rooms available for your budget: 
+
+There is no room available for your budget 
+Sorry but you are poor :(
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+==================================
+|| There are 3 types of rooms : ||
+==================================
+==========================================================================================================================================
+||				Luxury Room:				Deluxe Room:			Standard Room:			||
+||Cost:				$1000					$500				$100				||
+||Num beds: 			3					2				1				||
+||Num bathrooms:		2					1				1				||
+==========================================================================================================================================
+
+The facilities will be shown while booking a room
+
+Available rooms: 
+1 <------ Luxury Rooms
+2 <------ Luxury Rooms
+3 <------ Luxury Rooms
+4 <------ Deluxe Rooms
+5 <------ Deluxe Rooms
+6 <------ Deluxe Rooms
+7 <------ Deluxe Rooms
+8 <------ Standard Rooms
+9 <------ Standard Rooms
+10 <------ Standard Rooms
+
+What is your budget for the room: No string input, try again: 
+.....
+Rooms available for your budget: 
+
+There is no room available for your budget 
+Sorry but you are poor :(
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+==================================
+|| There are 3 types of rooms : ||
+==================================
+==========================================================================================================================================
+||				Luxury Room:				Deluxe Room:			Standard Room:			||
+||Cost:				$1000					$500				$100				||
+||Num beds: 			3					2				1				||
+||Num bathrooms:		2					1				1				||
+==========================================================================================================================================
+
+The facilities will be shown while booking a room
+
+Available rooms: 
+1 <------ Luxury Rooms
+2 <------ Luxury Rooms
+3 <------ Luxury Rooms
+4 <------ Deluxe Rooms
+5 <------ Deluxe Rooms
+6 <------ Deluxe Rooms
+7 <------ Deluxe Rooms
+8 <------ Standard Rooms
+9 <------ Standard Rooms
+10 <------ Standard Rooms
+
+What is your budget for the room: 
+
+Please enter the details with first character being a letter !!
+
+Please enter your name (full name): 
+
+Please enter your email (@gmail.com): 
+Rooms available for your budget: 
+8
+9
+10
+
+Which room would you like to book: 
+That room is not available please enter an available room: 
+Your current facilites are: 
+=======================
+|| Basic facilities: ||
+=======================
+
+1) Free swimmingpool access
+2) Free wifi access
+3) Free room service
+4) Number of beds: 1
+5) Number of bathrooms: 1
+
+HOWEVER YOU CAN ADD ADVANCED FACILITIES LISTED BELOW:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $100
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+================
+|| HOTEL LOG: ||
+================
+
+Booked Rooms: 9
+Customer ID: 1
+Overall cost: $100
+=======================
+|| Customer Details: ||
+=======================
+Name: Arsh 
+Contact: a@gmail.com
+
+=================================
+|| Live rooms available board: ||
+=================================
+Luxury Rooms available: 3
+Deluxe Rooms available: 4
+Standard Rooms available: 2
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Test 4:
+===================================================
+|| Hello and wellcome to LONG LONG UNITED HOTEL: ||
+||  STAY LONGG, PLEASURE LONGG, LONG LONG UNITED ||
+===================================================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+==================================
+|| There are 3 types of rooms : ||
+==================================
+==========================================================================================================================================
+||				Luxury Room:				Deluxe Room:			Standard Room:			||
+||Cost:				$1000					$500				$100				||
+||Num beds: 			3					2				1				||
+||Num bathrooms:		2					1				1				||
+==========================================================================================================================================
+
+The facilities will be shown while booking a room
+
+Available rooms: 
+1 <------ Luxury Rooms
+2 <------ Luxury Rooms
+3 <------ Luxury Rooms
+4 <------ Deluxe Rooms
+5 <------ Deluxe Rooms
+6 <------ Deluxe Rooms
+7 <------ Deluxe Rooms
+8 <------ Standard Rooms
+9 <------ Standard Rooms
+10 <------ Standard Rooms
+
+What is your budget for the room: 
+
+Please enter the details with first character being a letter !!
+
+Please enter your name (full name): 
+
+Please enter your email (@gmail.com): 
+Rooms available for your budget: 
+8
+9
+10
+
+Which room would you like to book: 
+Your current facilites are: 
+=======================
+|| Basic facilities: ||
+=======================
+
+1) Free swimmingpool access
+2) Free wifi access
+3) Free room service
+4) Number of beds: 1
+5) Number of bathrooms: 1
+
+HOWEVER YOU CAN ADD ADVANCED FACILITIES LISTED BELOW:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $100
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Do you want to check-out a customer(type "y" for yes and "n" for no): 
+Please enter a customer id: Customer with ID: 3 has been checked out
+t2: 0
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Do you want to check-out a customer(type "y" for yes and "n" for no): 
+Please enter a customer id: Customer with ID: 1 has been checked out
+t2: 0
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+================
+|| HOTEL LOG: ||
+================
+
+=================================
+|| Live rooms available board: ||
+=================================
+Luxury Rooms available: 4
+Deluxe Rooms available: 4
+Standard Rooms available: 3
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Test 5:
+===================================================
+|| Hello and wellcome to LONG LONG UNITED HOTEL: ||
+||  STAY LONGG, PLEASURE LONGG, LONG LONG UNITED ||
+===================================================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+Do you want to check-in a customer(type "y" for yes and "n" for no): 
+==================================
+|| There are 3 types of rooms : ||
+==================================
+==========================================================================================================================================
+||				Luxury Room:				Deluxe Room:			Standard Room:			||
+||Cost:				$1000					$500				$100				||
+||Num beds: 			3					2				1				||
+||Num bathrooms:		2					1				1				||
+==========================================================================================================================================
+
+The facilities will be shown while booking a room
+
+Available rooms: 
+1 <------ Luxury Rooms
+2 <------ Luxury Rooms
+3 <------ Luxury Rooms
+4 <------ Deluxe Rooms
+5 <------ Deluxe Rooms
+6 <------ Deluxe Rooms
+7 <------ Deluxe Rooms
+8 <------ Standard Rooms
+9 <------ Standard Rooms
+10 <------ Standard Rooms
+
+What is your budget for the room: 
+
+Please enter the details with first character being a letter !!
+
+Please enter your name (full name): 
+
+Please enter your email (@gmail.com): 
+Rooms available for your budget: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Which room would you like to book: 
+Your current facilites are: 
+=======================
+|| Basic facilities: ||
+=======================
+
+1) Free swimmingpool access
+2) Free wifi access
+3) Free room service
+4) Number of beds: 1
+5) Number of bathrooms: 1
+
+HOWEVER YOU CAN ADD ADVANCED FACILITIES LISTED BELOW:
+=========================
+|| Advanced facilities: ||
+==========================
+
+1) Indoor playground and arcade for $30
+2) Buffet for $30
+
+Do you want to add advanced facilities? (type "y" for yes and "n" for no): 
+
+Your reservation has been confirmed!
+The total cost is: $100
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+================
+|| HOTEL LOG: ||
+================
+
+Booked Rooms: 10
+Customer ID: 1
+Overall cost: $100
+=======================
+|| Customer Details: ||
+=======================
+Name: Parth
+Contact: parth@gmail.com
+
+=================================
+|| Live rooms available board: ||
+=================================
+Luxury Rooms available: 3
+Deluxe Rooms available: 4
+Standard Rooms available: 2
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
+================
+|| HOTEL LOG: ||
+================
+
+Booked Rooms: 10
+Customer ID: 1
+Overall cost: $100
+=======================
+|| Customer Details: ||
+=======================
+Name: Parth
+Contact: parth@gmail.com
+
+=================================
+|| Live rooms available board: ||
+=================================
+Luxury Rooms available: 3
+Deluxe Rooms available: 4
+Standard Rooms available: 2
+
+Type "b" to go to booking menu
+Type "co" to go to checkout menu
+Type "in" to go to final interface
+Type "close" to end the program
+Pick a menu: 
+==========================
+|| Thanks for visiting: ||
+==========================
+
